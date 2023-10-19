@@ -10,4 +10,5 @@ body{ font-size: 20px;
 
 .imagem{width: 100%;}
 
-.imagem_beneficio{width: 100%;}
+.lista{ display: inline-block;
+    vertical-align: top;
