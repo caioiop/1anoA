@@ -6,9 +6,17 @@ body{ font-size: 20px;
 
 .alinhar{text-align: center;}
 
-.destaque{color: red;}
+.destaque {color :red}
 
-.imagem{width: 100%;}
+.imagem {width: 100%;}
 
 .lista{ display: inline-block;
     vertical-align: top;
+
+    margin-rigth: 15%;
+
+}
+.imagem_beneficios{
+    width: 50%;}
+
+.titulo-prncipal{padding-left: 20px;}
